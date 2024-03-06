@@ -1,5 +1,5 @@
 # RSTFormer
-**We will publicly disclose our code and dataset after receiving the paper**
+**We will publicly disclose our code and dataset after receiving the paper.**
 
 
 
